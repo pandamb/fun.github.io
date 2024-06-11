@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://pandamb.github.io/fun.github.io/</id>
+    <title>FUN</title>
+    <updated>2024-06-11T04:25:55.214Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://pandamb.github.io/fun.github.io/"/>
+    <link rel="self" href="https://pandamb.github.io/fun.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://pandamb.github.io/fun.github.io/images/avatar.png</logo>
+    <icon>https://pandamb.github.io/fun.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, FUN</rights>
+    <entry>
+        <title type="html"><![CDATA[博客 fun：探索编程的乐趣与奥秘]]></title>
+        <id>https://pandamb.github.io/fun.github.io/post/bo-ke-fungithubiotan-suo-bian-cheng-de-le-qu-yu-ao-mi/</id>
+        <link href="https://pandamb.github.io/fun.github.io/post/bo-ke-fungithubiotan-suo-bian-cheng-de-le-qu-yu-ao-mi/">
+        </link>
+        <updated>2024-06-11T03:46:48.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>   欢迎来到 fun，这里是一个致力于分享编程知识、技术趋势、以及编程世界里的小趣事的博客。我们相信编程不仅仅是一系列的代码和算法，更是一个充满创意和发现的世界。无论你是编程新手还是资深开发者，我们的博客旨在提供有价值的内容，激发你的好奇心，帮助你探索更多编程的乐趣。
+  在这里，你可以找到从基础编程知识，到最新技术动态，再到实际项目案例分析的各类文章。我们通过浅显易懂的方式，分享技术的核心原理和实践经验，助你一步步成长为更优秀的开发者。同时，我们也鼓励每一位读者与我们互动，分享你的想法和作品，让这里成为每个人自由探索和交流的空间。
+  编程之路虽长，但不孤单。加入 fun，一起发现编程的无限可能，享受编程带来的乐趣吧！
+</code></pre>
+]]></content>
+    </entry>
+</feed>
